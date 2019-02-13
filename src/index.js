@@ -7,10 +7,9 @@ function App() {
   return (
     <div className="App">
       <h1>React Testing Library</h1>
-      
     </div>
   );
 }
 
 const rootElement = document.getElementById("root");
-ReactDOM.render(<App />, rootElement);
+// ReactDOM.render(<App />, rootElement);
